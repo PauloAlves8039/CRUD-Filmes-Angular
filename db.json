@@ -109,6 +109,26 @@
       "urlIMDb": "https://www.imdb.com/title/tt2527338/?ref_=vi_md_ti",
       "genero": "Aventura",
       "id": 11
+    },
+    {
+      "titulo": "Midsommar",
+      "urlFoto": "https://images-na.ssl-images-amazon.com/images/I/61zBc0VOtWL._AC_UX385_.jpg",
+      "dtLancamento": "2019-07-13T03:00:00.000Z",
+      "descricao": "It follows a group of friends who travel to Sweden for a festival that occurs once every 90 years, only to find themselves in the clutches of a pagan cult.",
+      "nota": 7.1,
+      "urlIMDb": "https://www.imdb.com/title/tt8772262/",
+      "genero": "Terror",
+      "id": 12
+    },
+    {
+      "titulo": "Interestelar",
+      "urlFoto": "https://cinemaemcena.com.br/uploads/criticas_old/interstellar_poster5.jpg",
+      "dtLancamento": "2014-11-06T02:00:00.000Z",
+      "descricao": "A team of explorers travel through a wormhole in space in an attempt to ensure humanity's survival.",
+      "nota": 8.6,
+      "urlIMDb": "https://www.imdb.com/title/tt0816692/",
+      "genero": "Ficção cientifica",
+      "id": 13
     }
   ]
 }
